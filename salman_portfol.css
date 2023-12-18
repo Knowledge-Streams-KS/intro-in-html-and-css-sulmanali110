@@ -1,0 +1,84 @@
+<style>
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main_menu_bar {
+    background: rgb(87, 139, 218);
+    height: 60px;
+    width: 100%;
+    
+}
+.main_menu_bar a {
+
+    text-decoration:none;
+    text-align: center;
+    float: left;
+    font-size: larger;
+    color: white;
+    padding: 2%;
+    margin-left: 12%;
+}
+.main_body{
+    background:rgb(125, 162, 218);
+    text-align: center;
+    width: 60%;
+    height: 1350px;
+    margin-left: 20%;
+}
+.main_body h1{
+    color: white;
+}
+.main_body p{
+    font-size: 16px;
+}
+.main_menu_bar a:hover{
+    color: rgb(133, 228, 120);
+}
+.education_main_body{
+    background:rgb(125, 162, 218);
+    text-align: center;
+    width: 60%;
+    height: 800px;
+    margin-left: 20%;
+}
+.homepagebutton {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #04AA6D;
+    border-radius: 30px;
+  }
+  .homepagebutton a{
+
+    text-decoration: none;
+    color: white;
+  }
+  .educationpage {
+
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #0fbbc1;
+    border-radius: 30px;
+
+  }
+  .educationpage a{
+    text-decoration: none;
+    color:white;
+    font: bold;
+
+  }
+
+</style>
